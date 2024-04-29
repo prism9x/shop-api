@@ -1,0 +1,10 @@
+@Prism.API_HostAddress = https://localhost:7141
+
+
+GET {{Prism.API_HostAddress}}/api/categories
+
+###
+
+GET {{Prism.API_HostAddress}}/api/products
+
+###
