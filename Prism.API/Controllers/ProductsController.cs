@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Prism.Application.Service;
+using Prism.Application.Abstract;
 
 namespace Prism.API.Controllers
 {

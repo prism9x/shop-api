@@ -1,6 +1,6 @@
 ﻿using Prism.Domain.Entities;
 
-namespace Prism.Application.Service
+namespace Prism.Application.Abstract
 {
     public interface IProductService
     {

@@ -1,4 +1,5 @@
-﻿using Prism.Domain.Abstract;
+﻿using Prism.Application.Abstract;
+using Prism.Domain.Abstract;
 using Prism.Domain.Entities;
 using System;
 using System.Collections.Generic;
